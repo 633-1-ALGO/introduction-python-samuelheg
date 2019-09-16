@@ -4,3 +4,9 @@
 
 nb_articles = 13
 prix_ht = 42.75
+tva = prix_ht*7.7/100
+prix_at = prix_ht + tva
+prix_tot = nb_articles * prix_at
+
+print("le prix total sans tva est de : ", str(nb_articles*prix_ht))
+print("le prix total avec tva est de : ", str(prix_tot))
