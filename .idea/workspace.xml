@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IntroductionPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroductionPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.condition1">
+  <component name="RunManager" selected="Python.condition2">
     <configuration name="condition1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="condition2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.1- Exercice - Séquence 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.2- Exercice - Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,19 +144,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sequence1" />
       <item itemvalue="Python.sequence2" />
       <item itemvalue="Python.string1" />
       <item itemvalue="Python.string2" />
       <item itemvalue="Python.condition1" />
+      <item itemvalue="Python.condition2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.condition2" />
         <item itemvalue="Python.condition1" />
         <item itemvalue="Python.string2" />
         <item itemvalue="Python.string1" />
         <item itemvalue="Python.sequence2" />
-        <item itemvalue="Python.sequence1" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Avancement Exercices Traitement de string 1 fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avancement Exercices Traitement de string 1 fini" />
+    <MESSAGE value="Exercice 10.1 Conditions terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 10.1 Conditions terminé" />
   </component>
 </project>
