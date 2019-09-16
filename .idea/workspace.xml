@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,28 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.liste1">
-    <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntroductionPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.1- Exercice - Boucle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.liste2">
     <configuration name="boucle2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +101,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="liste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="listes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,18 +145,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.condition1" />
-      <item itemvalue="Python.boucle1" />
       <item itemvalue="Python.boucle2" />
       <item itemvalue="Python.listes" />
       <item itemvalue="Python.liste1" />
+      <item itemvalue="Python.liste2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.liste2" />
         <item itemvalue="Python.liste1" />
         <item itemvalue="Python.listes" />
         <item itemvalue="Python.boucle2" />
         <item itemvalue="Python.condition1" />
-        <item itemvalue="Python.boucle1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +178,7 @@
     <MESSAGE value="Avancement Exercices Traitement de string 1 fini" />
     <MESSAGE value="Exercice 10.1 Conditions terminé" />
     <MESSAGE value="Exercice 10.2 Conditions terminé" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 10.2 Conditions terminé" />
+    <MESSAGE value="Exercice 12.1 Listes et Tableaux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 12.1 Listes et Tableaux" />
   </component>
 </project>
